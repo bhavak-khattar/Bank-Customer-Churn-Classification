@@ -1,5 +1,5 @@
 # Bank Customer's Churn Classification
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Framework](https://img.shields.io/badge/Framework-Keras/TensorFlow-orange.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Framework](https://img.shields.io/badge/Framework-Keras/TensorFlow-orange.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-yellow.svg)
 
 ## Table of Contents
   * [Overview](#overview)
@@ -12,7 +12,7 @@
 This is a Deep Learning Project where the main aim is to classify whether a customer will leave the bank or not based on their previous bank activities. To Predict the same an Artifical Neural Network is created. 
 
 ### Dataset
-_• Dataset Link: https://www.kaggle.com/shrutimechlearn/churn-modelling_
+_Dataset Link: https://www.kaggle.com/shrutimechlearn/churn-modelling_
 
 ### Dependencies
 * Google Colaboratory
